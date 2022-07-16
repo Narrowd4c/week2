@@ -76,7 +76,7 @@ a {
 
 .font_style_small {
   font-weight: 700;
-  line-height: 1.25;
+  line-height: 32px;
   font-size: 1.5rem;
 }
 
@@ -169,8 +169,8 @@ a {
   font-size: 1.5rem;
 }
 
-.lh-tight {
-  line-height: 1.25;
+.lh-normal {
+  line-height: 1.5;
 }
 
 .fw-bold {
